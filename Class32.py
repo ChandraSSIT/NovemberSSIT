@@ -79,4 +79,10 @@ action.drag_and_drop(sourceelement,targetelement).perform()
 # svn,TFS(Team foundation server),Github
 
 # source tree
-# github for desktop 
+# github for desktop
+# steps for github
+# clone/create new repository
+# start working on any file
+# commit the changes
+# push the changes to origin/server
+
